@@ -1,2 +1,10 @@
 # Power-BI-Dashboards
 Here are some of my Power BI Dashboards
+
+World Population Data https://app.powerbi.com/view?r=eyJrIjoiN2Q5M2U2NTQtNGNmOC00NDNjLTlmNjMtODE5YzViNTczNzdkIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSection
+
+Matrix's Style Dashboard https://app.powerbi.com/view?r=eyJrIjoiOTNiZDhmYTAtNzMzMS00MzRlLWI2MTgtZWQ2OTY2YTI5MTlhIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSection
+
+Key Performance Indicator Dashboard https://app.powerbi.com/view?r=eyJrIjoiYjU0Yjc5YTYtZTM2Zi00YzZiLTg4ZWYtZjI5ZmVlYWQ5MGJlIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSection
+
+Finance Dashboard https://app.powerbi.com/view?r=eyJrIjoiYWZiZmZkOTAtZTIyMy00M2UzLWFiMWMtOGY4NmFkMTFhM2M0IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=ReportSection
